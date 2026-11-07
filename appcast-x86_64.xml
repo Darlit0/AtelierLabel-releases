@@ -4,16 +4,15 @@
     <title>Atelier Label (x86_64)</title>
     <link>https://raw.githubusercontent.com/Darlit0/AtelierLabel-releases/main/appcast-x86_64.xml</link>
     <item>
-      <title>Version 1.1.0</title>
-      <pubDate>Sat, 07 Nov 2026 23:21:17 +0100</pubDate>
-      <sparkle:version>202611072320</sparkle:version>
-      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <title>Version 1.2.0</title>
+      <pubDate>Sun, 08 Nov 2026 00:41:46 +0100</pubDate>
+      <sparkle:version>202611080041</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Nouveau nom : Atelier Label.</p>
-<p>Mises à jour automatiques : les prochaines versions s'installent directement depuis l'application.</p>
-<p>Modèles d'étiquette avec export et import, mode sombre, Data Matrix en option.</p>]]></description>
-      <enclosure url="https://github.com/Darlit0/AtelierLabel-releases/releases/download/v1.1.0/AtelierLabel-1.1.0-macOS-Intel.zip"
-                 type="application/octet-stream" sparkle:edSignature="vX5iEwA9FHO0lj3hQDxAcjWlbtSVpAh3QCUjApAovoxbnqDI+51Qg0FJTAUjeK0G2Pga0cKXvyY/G7FbbPjnCg==" length="1026242" />
+      <description><![CDATA[<p>Synchronisation entre appareils : choisis un dossier iCloud Drive, OneDrive ou Dropbox (le même sur chaque Mac ou PC) et tes modèles d'étiquette s'y retrouvent automatiquement, sans compte à créer.</p>
+<p>Les modifications sont fusionnées modèle par modèle : la plus récente l'emporte, et une suppression se propage aux autres appareils.</p>]]></description>
+      <enclosure url="https://github.com/Darlit0/AtelierLabel-releases/releases/download/v1.2.0/AtelierLabel-1.2.0-macOS-Intel.zip"
+                 type="application/octet-stream" sparkle:edSignature="9kmotuyXb/1AwFxnPeXser0FxlJPPBi8h0nDmyBnOM0XKyMpXu3gz6Cb65b9/Is451tSI3dgh6OB98s1xKE8CQ==" length="1052135" />
     </item>
   </channel>
 </rss>
