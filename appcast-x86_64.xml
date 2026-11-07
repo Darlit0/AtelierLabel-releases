@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Atelier Label (x86_64)</title>
+    <link>https://raw.githubusercontent.com/Darlit0/AtelierLabel-releases/main/appcast-x86_64.xml</link>
+    <item>
+      <title>Version 1.1.0</title>
+      <pubDate>Sat, 07 Nov 2026 23:21:17 +0100</pubDate>
+      <sparkle:version>202611072320</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Nouveau nom : Atelier Label.</p>
+<p>Mises à jour automatiques : les prochaines versions s'installent directement depuis l'application.</p>
+<p>Modèles d'étiquette avec export et import, mode sombre, Data Matrix en option.</p>]]></description>
+      <enclosure url="https://github.com/Darlit0/AtelierLabel-releases/releases/download/v1.1.0/AtelierLabel-1.1.0-macOS-Intel.zip"
+                 type="application/octet-stream" sparkle:edSignature="vX5iEwA9FHO0lj3hQDxAcjWlbtSVpAh3QCUjApAovoxbnqDI+51Qg0FJTAUjeK0G2Pga0cKXvyY/G7FbbPjnCg==" length="1026242" />
+    </item>
+  </channel>
+</rss>
