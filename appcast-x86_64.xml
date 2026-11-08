@@ -4,15 +4,15 @@
     <title>Atelier Label (x86_64)</title>
     <link>https://raw.githubusercontent.com/Darlit0/AtelierLabel-releases/main/appcast-x86_64.xml</link>
     <item>
-      <title>Version 1.3.1</title>
-      <pubDate>Sun, 08 Nov 2026 14:13:03 +0100</pubDate>
-      <sparkle:version>202611081412</sparkle:version>
-      <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+      <title>Version 1.3.2</title>
+      <pubDate>Sun, 08 Nov 2026 14:26:15 +0100</pubDate>
+      <sparkle:version>202611081425</sparkle:version>
+      <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Correction : le modèle « 40 × 30 mm — 2 codes à couper » pouvait n'imprimer qu'un seul code s'il avait été ouvert par une version plus ancienne de l'application. Il se répare tout seul.</p>
-<p>Les réglages ajoutés par les futures versions ne sont plus perdus quand plusieurs appareils synchronisés n'ont pas encore la même version.</p>]]></description>
-      <enclosure url="https://github.com/Darlit0/AtelierLabel-releases/releases/download/v1.3.1/AtelierLabel-1.3.1-macOS-Intel.zip"
-                 type="application/octet-stream" sparkle:edSignature="sNfmRqUFunxthS8Fy9rWU0nHZ5114nOUbuPif0rf3kj4nyCx1eg2fKIFPzpKEmjIHTiSI9GwhQtoz93wfSiyCw==" length="1053718" />
+      <description><![CDATA[<p>L'aperçu montre maintenant l'étiquette entière : avec le modèle 40 × 30, on voit les deux codes et les repères de coupe, comme à l'impression.</p>
+<p>Correction : après la mise à jour, le modèle 40 × 30 pouvait encore afficher un seul code tant qu'on ne le resélectionnait pas.</p>]]></description>
+      <enclosure url="https://github.com/Darlit0/AtelierLabel-releases/releases/download/v1.3.2/AtelierLabel-1.3.2-macOS-Intel.zip"
+                 type="application/octet-stream" sparkle:edSignature="ZZqX5ye2tjdQ1u6O7hIv+TSbc9CKyblIvdspPGZD6aZGt1FHIuuy0vIK4zDFkUQucmK8mlqlAHD9W/AvclA8CQ==" length="1054252" />
     </item>
   </channel>
 </rss>
