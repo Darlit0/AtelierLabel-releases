@@ -4,16 +4,15 @@
     <title>Atelier Label (x86_64)</title>
     <link>https://raw.githubusercontent.com/Darlit0/AtelierLabel-releases/main/appcast-x86_64.xml</link>
     <item>
-      <title>Version 1.3.0</title>
-      <pubDate>Sun, 08 Nov 2026 14:03:34 +0100</pubDate>
-      <sparkle:version>202611081403</sparkle:version>
-      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+      <title>Version 1.3.1</title>
+      <pubDate>Sun, 08 Nov 2026 14:13:03 +0100</pubDate>
+      <sparkle:version>202611081412</sparkle:version>
+      <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Nouveau : plusieurs codes sur une même étiquette, à couper. Réglage « Codes par étiquette (dans la longueur) » : avec 2, deux codes s'impriment l'un au-dessus de l'autre, avec des repères de coupe sur les bords.</p>
-<p>Nouveau modèle « 40 × 30 mm — 2 codes à couper (40 × 15) » : code-barres plus épais (0,25 mm), plus facile à lire au scanner.</p>
-<p>Correction : calage plus précis des barres sur la tête d'impression pour les codes horizontaux.</p>]]></description>
-      <enclosure url="https://github.com/Darlit0/AtelierLabel-releases/releases/download/v1.3.0/AtelierLabel-1.3.0-macOS-Intel.zip"
-                 type="application/octet-stream" sparkle:edSignature="v03+vYzDxehMX8eQnvZHA2Kn75cyy3qjuvfnHnIU/BDLI4Xte2QpMX8TEwDYIY3pibadcu6WsCzmW+VfeSrcDw==" length="1053233" />
+      <description><![CDATA[<p>Correction : le modèle « 40 × 30 mm — 2 codes à couper » pouvait n'imprimer qu'un seul code s'il avait été ouvert par une version plus ancienne de l'application. Il se répare tout seul.</p>
+<p>Les réglages ajoutés par les futures versions ne sont plus perdus quand plusieurs appareils synchronisés n'ont pas encore la même version.</p>]]></description>
+      <enclosure url="https://github.com/Darlit0/AtelierLabel-releases/releases/download/v1.3.1/AtelierLabel-1.3.1-macOS-Intel.zip"
+                 type="application/octet-stream" sparkle:edSignature="sNfmRqUFunxthS8Fy9rWU0nHZ5114nOUbuPif0rf3kj4nyCx1eg2fKIFPzpKEmjIHTiSI9GwhQtoz93wfSiyCw==" length="1053718" />
     </item>
   </channel>
 </rss>
